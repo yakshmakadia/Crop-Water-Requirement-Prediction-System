@@ -1,4 +1,4 @@
-# 💧 ML-Based Crop Water Requirement Prediction System
+#  ML-Based Crop Water Requirement Prediction System
 
 > Intelligent irrigation prediction for Rajkot, Gujarat using LSTM deep learning.
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 With growing water scarcity and unpredictable monsoons, especially in Gujarat, there is a critical need for precise irrigation planning.  
 This project uses an **LSTM-based deep learning model** trained on historical climate, soil, and crop data to predict daily crop water requirements for **cotton, wheat, and groundnut** in Rajkot.
@@ -19,7 +19,7 @@ The project aligns with:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python, Jupyter Notebook
 - TensorFlow / Keras
@@ -28,7 +28,7 @@ The project aligns with:
 
 ---
 
-## 🤖 Model Highlights
+##  Model Highlights
 
 - Predicts soil moisture & irrigation needs
 - Captures seasonal variability & monsoon anomalies
@@ -37,7 +37,7 @@ The project aligns with:
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 - Improved irrigation planning
 - Lower water wastage
@@ -45,7 +45,7 @@ The project aligns with:
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```bash
 python -m venv venv
